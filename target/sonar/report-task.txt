@@ -1,0 +1,6 @@
+projectKey=com.bky.project1:webapp
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/com.bky.project1:webapp
+ceTaskId=AW3UsF1NNys4ByWjan8M
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW3UsF1NNys4ByWjan8M
